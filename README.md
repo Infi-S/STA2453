@@ -52,6 +52,7 @@ Before running the project, ensure you have Python 3.9+ installed. Then follow t
 ```bash
 git clone https://github.com/yourusername/your-project.git
 cd your-project
+```bash
 
 ### 2. Set Up a Virtual Environment (Recommended)
 python -m venv venv
