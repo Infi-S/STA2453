@@ -1,6 +1,6 @@
 # Fish Classification with Sound
 
-This repository works on the Fish Classification with Sound project which is based on the project at [WidebandPingFest/FishTetherExperiment](https://github.com/WidebandPingFest/FishTetherExperiment).
+This repository works on the Fish Classification with Sound project which is based on the dataset at [WidebandPingFest/FishTetherExperiment](https://github.com/WidebandPingFest/FishTetherExperiment).
 
 ---
 
@@ -9,14 +9,6 @@ This repository works on the Fish Classification with Sound project which is bas
 1. [Introduction](#introduction)
 2. [Project Structure](#project-structure)
 3. [Installation](#installation)
-4. [Requirements](#requirements)
-5. [Usage](#usage)
-6. [Data](#data)
-7. [Output](#output)
-8. [Script](#script)
-9. [Model](#model)
-10. [License](#license)
-11. [Acknowledgments](#acknowledgments)
 
 ---
 
