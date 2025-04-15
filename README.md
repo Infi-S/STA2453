@@ -52,3 +52,12 @@ Before running the project, ensure you have Python 3.9+ installed. Then follow t
 ```bash
 git clone https://github.com/yourusername/your-project.git
 cd your-project
+
+### 2. Set Up a Virtual Environment (Recommended)
+python -m venv venv
+venv\Scripts\activate
+
+### 3. Install Dependencies
+For the complete list of required packages, please refer to the requirements.txt file, or directly install all required packages using:
+pip install -r requirements.txt
+
