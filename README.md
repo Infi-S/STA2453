@@ -55,10 +55,14 @@ cd your-project
 ```
 
 ### 2. Set Up a Virtual Environment (Recommended)
+```bash
 python -m venv venv
 venv\Scripts\activate
+```
 
 ### 3. Install Dependencies
 For the complete list of required packages, please refer to the requirements.txt file, or directly install all required packages using:
+```bash
 pip install -r requirements.txt
+```
 
