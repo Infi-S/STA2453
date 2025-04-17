@@ -65,8 +65,8 @@ pip install -r requirements.txt
 Download processed data from this [Mega link](https://mega.nz/folder/8JYnwQKA#ODm-ycelxWaDrcM35pjqog) and place in the Data folder.
 
 Open notebooks in the Sciprt folder using Jupyter Lab or Notebook:
-bash
-For 0. Data Rephrasing.ipynb, 1. EDA.ipynb and 2. Progress Report.ipynb, they need to be placed in the root folder to run properly
+
+>> For 0. Data Rephrasing.ipynb, 1. EDA.ipynb and 2. Progress Report.ipynb, they need to be placed in the root folder to run properly
 
 
 Run the notebooks to reproduce data cleaning, EDA, and modeling steps.
