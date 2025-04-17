@@ -58,7 +58,7 @@ For the complete list of required packages, please refer to the requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Usage
+## Usage
 Download processed data from this [Mega link](https://mega.nz/folder/8JYnwQKA#ODm-ycelxWaDrcM35pjqog) and place in the Data folder.
 
 Open notebooks in the Sciprt folder using Jupyter Lab or Notebook:
