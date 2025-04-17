@@ -32,10 +32,10 @@ This project leverages sound data to perform fish classification using both trad
   This folder includes both text and image outputs that are finally used in each report. Complete outputs can be found and reproduced by the notebooks in the **Script** folder.
 
 - **Script**:  
-  This folder contains Python scripts and Jupyter notebooks used for data cleaning, exploratory data analysis, and progress reporting.
+  This folder contains Python scripts and Jupyter notebooks used for data cleaning, exploratory data analysis, progress reporting and model constructions.
 
 - **Model**:  
-  This folder includes scikit-learn models trained during research.
+  This folder includes scikit-learn and PyTorch models trained and saved during research.
 
 ---
 
