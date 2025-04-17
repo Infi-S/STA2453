@@ -68,3 +68,14 @@ Open notebooks in the Sciprt folder using Jupyter Lab or Notebook:
 Run the notebooks to reproduce data cleaning, EDA, and modeling steps.
 > For 0. Data Rephrasing.ipynb, 1. EDA.ipynb and 2. Progress Report.ipynb, they need to be placed in the root folder to run properly
 
+---
+
+## Citation
+If you use this project, please cite the original dataset:
+WidebandPingFest/FishTetherExperiment
+
+## License
+This project is for academic research and educational use. See LICENSE for details.
+
+
+
