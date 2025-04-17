@@ -26,6 +26,7 @@ This project leverages sound data to perform fish classification using both trad
 - **Data**:  
   Due to file size limitations, processed data are not uploaded to GitHub. Instead, they can be found at:  
   [Processed Data](https://mega.nz/folder/8JYnwQKA#ODm-ycelxWaDrcM35pjqog)
+  Or, the sample_data.csv can provide an idea on how this dataset looks like.
 
 - **Output**:  
   This folder includes both text and image outputs that are finally used in each report. Complete outputs can be found and reproduced by the notebooks in the **Script** folder.
