@@ -9,6 +9,7 @@ This repository works on the Fish Classification with Sound project which is bas
 1. [Introduction](#introduction)
 2. [Project Structure](#project-structure)
 3. [Installation](#installation)
+4. [Usage](#usage)
 
 ---
 
@@ -57,4 +58,9 @@ For the complete list of required packages, please refer to the requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
+### 4. Usage
+Download processed data from this [Mega link](https://mega.nz/folder/8JYnwQKA#ODm-ycelxWaDrcM35pjqog) and place in the Data folder.
 
+Open notebooks in the Sciprt folder using Jupyter Lab or Notebook:
+Run the notebooks to reproduce data cleaning, EDA, and modeling steps.
+Outputs (text and images) will be saved in the Output folder.
