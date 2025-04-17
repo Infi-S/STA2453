@@ -75,7 +75,7 @@ Run the notebooks to reproduce data cleaning, EDA, and modeling steps.
 
 ## Citation
 If you use this project, please cite this repository and the original dataset:
-WidebandPingFest/FishTetherExperiment
+[WidebandPingFest/FishTetherExperiment](https://github.com/WidebandPingFest/FishTetherExperiment).
 
 ## License
 This project is for academic research and educational use under the MIT License. See [LICENSE](./LICENSE) for details.
