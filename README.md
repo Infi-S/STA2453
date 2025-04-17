@@ -46,8 +46,8 @@ Before running the project, ensure you have Python 3.9+ installed. Then follow t
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-project.git
-cd your-project
+git clone https://github.com/Infi-S/STA2453.git
+cd STA2453
 ```
 
 ### 2. Set Up a Virtual Environment (Recommended)
