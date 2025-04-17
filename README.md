@@ -10,6 +10,8 @@ This repository works on the Fish Classification with Sound project which is bas
 2. [Project Structure](#project-structure)
 3. [Installation](#installation)
 4. [Usage](#usage)
+5. [Citation](#citation)
+6. [License](#license)
 
 ---
 
@@ -71,11 +73,11 @@ Run the notebooks to reproduce data cleaning, EDA, and modeling steps.
 ---
 
 ## Citation
-If you use this project, please cite the original dataset:
+If you use this project, please cite this repository and the original dataset:
 WidebandPingFest/FishTetherExperiment
 
 ## License
-This project is for academic research and educational use. See LICENSE for details.
+This project is for academic research and educational use under the MIT License. See [LICENSE](./LICENSE) for details.
 
 
 
